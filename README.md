@@ -1,1 +1,1 @@
-**Excercises from the Docker Book**
+**Excercises from the Terraform Book**
